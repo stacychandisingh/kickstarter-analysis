@@ -10,6 +10,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis and Challenges
 - The Kickstarter crowdfunding data analysis was performed by filtering data sets, applying conditional formatting, calculating measures of central tendency and measures of spread, as well as visualizing trends through line charts. A challenge I encountered during this analysis was not immediately identifying the color gradient change when using **Value Shading** in the “Percentage Funded” column as this feature was applied to a large dataset. To see and appreciate the usefulness of Value Shading, I further filtered data by the Subcategory, “plays” which condensed the dataset. This smaller, filtered data allowed me to see a color gradient change for “Percentage Funded”. 
+
 - The following image shows an overview of the large dataset which was further parsed and used in this analysis: ![Parent Category Outcomes](C:\Users\schan\OneDrive\Documents\Data Analysis\Crowdfunding Analysis\Parent_Category_Outcomes.png)
 - The following image provides an illustration of the distinct color gradient using **value shading** in the "Percentage Funded" column to indicate minimum and maximum values by assigning the colors red and blue: ![Value Shading Example](C:\Users\schan\OneDrive\Documents\Data Analysis\Crowdfunding Analysis\Value_Shading_Example.png)
 
