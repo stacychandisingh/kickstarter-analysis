@@ -16,7 +16,7 @@ Performing analysis on Kickstarter data to uncover trends
 ### Results
 
 - **What are two conclusions you can draw about the *Outcomes based on Launch Date*?**
-   Two conclusions I can draw about the Theater Outcomes based on Launch Date are: 
+  - Two conclusions I can draw about the Theater Outcomes based on Launch Date are: 
     1. May is the best month for a successful campaign.
     2. December is the worst month for a successful campaign.  
 
