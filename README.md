@@ -23,7 +23,7 @@ Performing analysis on Kickstarter data to uncover trends
 - **What can you conclude about the *Outcomes based on Goals*?**
  - The conclusion I can make after analyzing Outcomes based on Goals is: smaller, achievable goals such as less than $1,000 were able to be met making the crowdfunding campaign successful.  
 
-- **What are some limitations of this dataset?*
+- **What are some limitations of this dataset?**
  - Limitations of this dataset include the lack of demographic details of the backers and the exclusion of data for the platforms or resources that were used to advertise a project’s Kickstarter campaign; the various social media platforms, websites, email mailing lists, and even printed media like a newspaper can all be used to advertise a project’s Kickstarter campaign. Having data for the medium used to advertise a crowdfunding campaign can determine the best possible advertising platform. Crowdfunding is not a true indicator of the success or failure of a project as there could be other sources of funds for the project besides a Kickstarter crowdfunding campaign. 
 
 - **What are some other possible tables and/or graphs that we could create?**
